@@ -18,7 +18,7 @@
     "codecov": "codecov"
   },
   "dependencies": {
-    "flatpickr": "git+https://github.com/tmbeihl/flatpickr.git",
+    "flatpickr": "^4.6.1",
     "stimulus": "^1.0.1"
   },
   "devDependencies": {
